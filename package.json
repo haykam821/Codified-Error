@@ -1,0 +1,5 @@
+{
+	"name": "codified-error",
+	"description": "A simple snippet that allows constructing an error with a specific code.",
+	"license": "MIT"
+}
